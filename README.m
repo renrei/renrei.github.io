@@ -1,1 +1,1 @@
-Gitcoin PassportにGithubを使うことを強いられいていますぴえん
+Gitcoin PassportにGitHubを使うことを強いられいていますぴえん
