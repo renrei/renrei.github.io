@@ -1,1 +1,1 @@
-Gitcoin PassportにGitHubを使うことを強いられいていますぴえん
+いわゆるNIP-05
